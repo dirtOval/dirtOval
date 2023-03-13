@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Deirdre Loyall</h1>
 <h3 align="center">An extremely goofy engineer in Brooklyn, NY</h3>
 
-- 📫 How to reach me **deirdre.loyall@gmail.com**
+- 📫 How to reach me: **deirdre.loyall@gmail.com**
 
 - ⚡ Fun fact **I am a guitarist!**
 
