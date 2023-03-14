@@ -1,9 +1,9 @@
-<h1 align="center">Hello! I'm Deirdre Loyall</h1>
+<h1 align="center">Hello! I'm Deirdre</h1>
 <h3 align="center">An extremely goofy engineer in Brooklyn, NY</h3>
 
 - 📫 How to reach me: **deirdre.loyall@gmail.com**
 
-- ⚡ Fun fact **I am a guitarist!**
+- ⚡ Fun fact **I can play guitar and bass, and am a friend to all cats and dogs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
